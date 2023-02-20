@@ -1,5 +1,6 @@
 hello,git!
 hello,test!
+hello,hot-fix test!
 motify
 hello,git!
 hello,git!
