@@ -1,4 +1,5 @@
 hello,git!
+hello,test!
 motify
 hello,git!
 hello,git!
